@@ -10,7 +10,7 @@ const messages = [
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please!",
     "Ok, Try again"
-];
+]; 
 
 let messageIndex = 0;
 
